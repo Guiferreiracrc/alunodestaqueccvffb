@@ -14,9 +14,9 @@ Aplicativo web para gerenciar pontuação de alunos organizados por **escola**, 
 
 ## ✅ Funcionalidades Implementadas
 
-### 🏠 Dashboard
+### 🏠 Página Inicial
 - Estatísticas gerais: Escolas, Professoras, Turmas, Alunos, Pontos distribuídos, Resgates
-- Top 5 alunos com mais pontos
+- Top 10 alunos com mais pontos
 - Atividade recente (últimas movimentações)
 
 ### 🏫 Escolas
@@ -38,7 +38,7 @@ Aplicativo web para gerenciar pontuação de alunos organizados por **escola**, 
 ### ⭐ Sistema de Pontos
 - Adicionar pontos com motivo predefinido (participação, tarefa, comportamento, etc.)
 - Retirar pontos com motivo (comportamento inadequado, tarefa não entregue, etc.)
-- Seleção rápida de quantidades: +5, +10, +15, +20, +25, +50, +100
+- Seleção rápida de quantidades: +5, +10, +15, +20, +25, +50
 - Histórico completo por aluno
 - Efeito de confete ao ganhar pontos 🎉
 
